@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark><LineString><coordinates>
+90.439714,23.760300,0
+90.439188,23.760343,0
+90.439188,23.760343,0
+</coordinates></LineString></Placemark></Document></kml>

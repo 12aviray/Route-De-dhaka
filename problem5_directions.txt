@@ -1,0 +1,27 @@
+03:45 PM - 03:45 PM, Cost: BDT 0.00: Walk from Source (90.385008, 23.732862) to (90.385008, 23.732862).
+
+03:45 PM - 03:45 PM, Cost: BDT 0.91: Ride Bikolpo Bus from (90.385008, 23.732862) to (90.384675, 23.733993).
+
+04:00 PM - 04:00 PM, Cost: BDT 0.38: Ride Bikolpo Bus from (90.384675, 23.733993) to (90.384537, 23.734460).
+
+04:15 PM - 04:15 PM, Cost: BDT 0.54: Ride Bikolpo Bus from (90.384537, 23.734460) to (90.384341, 23.735125).
+
+04:30 PM - 04:30 PM, Cost: BDT 0.19: Ride Bikolpo Bus from (90.384341, 23.735125) to (90.384287, 23.735359).
+
+04:45 PM - 04:45 PM, Cost: BDT 0.22: Ride Bikolpo Bus from (90.384287, 23.735359) to (90.384224, 23.735630).
+
+05:00 PM - 05:00 PM, Cost: BDT 0.49: Ride Bikolpo Bus from (90.384224, 23.735630) to (90.384082, 23.736244).
+
+05:15 PM - 05:15 PM, Cost: BDT 0.36: Ride Bikolpo Bus from (90.384082, 23.736244) to (90.383979, 23.736691).
+
+05:30 PM - 05:30 PM, Cost: BDT 0.76: Ride Bikolpo Bus from (90.383979, 23.736691) to (90.383757, 23.737648).
+
+05:45 PM - 05:45 PM, Cost: BDT 0.03: Ride Bikolpo Bus from (90.383757, 23.737648) to (90.383748, 23.737690).
+
+06:00 PM - 06:00 PM, Cost: BDT 0.16: Ride Bikolpo Bus from (90.383748, 23.737690) to (90.383703, 23.737893).
+
+06:15 PM - 06:15 PM, Cost: BDT 0.29: Ride Bikolpo Bus from (90.383703, 23.737893) to (90.383624, 23.738257).
+
+06:30 PM - 06:30 PM, Cost: BDT 0.45: Ride Bikolpo Bus from (90.383624, 23.738257) to (90.383501, 23.738820).
+
+06:30 PM - 06:30 PM, Cost: BDT 0.00: Walk from (90.383501, 23.738820) to Destination (90.383501, 23.738820).

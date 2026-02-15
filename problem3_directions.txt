@@ -1,0 +1,9 @@
+08:00 AM - 08:00 AM, Cost: BDT 0.00: Walk from Source (90.382857, 23.741670) to (90.382857, 23.741670).
+
+08:00 AM - 08:00 AM, Cost: BDT 0.02: Ride Bikolpo Bus from (90.382857, 23.741670) to (90.382850, 23.741698).
+
+08:00 AM - 08:00 AM, Cost: BDT 0.82: Ride Bikolpo Bus from (90.382850, 23.741698) to (90.382608, 23.742734).
+
+08:00 AM - 08:00 AM, Cost: BDT 0.42: Ride Bikolpo Bus from (90.382608, 23.742734) to (90.382486, 23.743259).
+
+08:00 AM - 08:00 AM, Cost: BDT 0.00: Walk from (90.382486, 23.743259) to Destination (90.382486, 23.743259).
